@@ -4,8 +4,8 @@
   "description": "Vapi voice agent widget",
   "main": "index.tsx",
   "scripts": {
-    "build": "vite build",
-    "dev": "vite build --watch"
+    "build": "node init && vite build",
+    "dev": "node init && vite build --watch"
   },
   "type": "module",
   "dependencies": {
