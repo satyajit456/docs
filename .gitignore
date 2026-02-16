@@ -2,6 +2,6 @@
 **/.preview/**
 node_modules/
 dist/
-.env
 .DS_Store
 .tool-versions
+config.bat
